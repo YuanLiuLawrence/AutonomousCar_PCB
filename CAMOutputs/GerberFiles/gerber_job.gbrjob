@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-10-18T07:34:31Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "477part"
+        },
+        "Owner": "Yuan Liu <liu1827@purdue.edu>",
+        "Size": {
+            "X": 90.523569,
+            "Y": 68.316259
+        }
+    }
+}
